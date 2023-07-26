@@ -8,6 +8,9 @@ function App() {
 			<header className="App-header">
 				<h1>Local Weather</h1>
 				<Weather />
+				<a href="https://github.com/allysearles/React-Weather-Application.git">
+					Open-Source Code, by Ally Searles{" "}
+				</a>
 			</header>
 		</div>
 	);
